@@ -1,0 +1,8 @@
+{
+  "qr_version": "1",
+  "error_correction": "M",
+  "box_size": "10",
+  "border": "2",
+  "fill_color": "black",
+  "back_color": "white"
+}
